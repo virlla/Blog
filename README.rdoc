@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 firstCoomitsafsdfqwerasdf
+=======
+A new read me
+>>>>>>> master
