@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 firstCoomitsafsdfqwer
+=======
+A new read me
+>>>>>>> 3ddb4c6c5344a727383ade9ad4767cfc7f0ba1f1
